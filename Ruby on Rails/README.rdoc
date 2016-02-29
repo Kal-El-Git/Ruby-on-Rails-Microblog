@@ -7,7 +7,7 @@ Things you may want to cover:
 
 * Ruby 2.13p242
 
-* System dependencies
+* System dependencies: Rails 4.1.6
 
 * Configuration
 
